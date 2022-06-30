@@ -3,3 +3,4 @@
 - [Dataset details](00_Sign_Language_CNN_DataSet.ipynb)
 - [CNN](01_Sign_Language_CNN_Deep_Network.ipynb)
 - [Batch Normalization](02_Sign_Language_CNN_BN.ipynb)
+- [Regularization](03_Sign_Language_CNN_RG.ipynb)
