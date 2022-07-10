@@ -1,3 +1,3 @@
 # CNN Examples
 
-- [Sign Language MNIST](./SignLanguageMNIST/)
+- [Accuracy Improving Techniques](./SignLanguageMNIST/)
