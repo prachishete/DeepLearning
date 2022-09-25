@@ -1,3 +1,3 @@
 # Deep Learning
 
-- [CNN](./CNN)
+- [CNN](./CNN/README.md)
